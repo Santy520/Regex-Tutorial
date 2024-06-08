@@ -93,6 +93,6 @@ Thank you for following along, and happy regexing!
 
 Santiago Palacio
 
-Github: santy520
+Github: [santy520](https://github.com/Santy520)
 
 Email: sspalacio20@gmail.com
